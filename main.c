@@ -10,8 +10,17 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 int main()
 {
-    char c;
-    printf("Hello World");
-
+    int x;
+     x = 65;
+    do
+    {
+        printf("%c", x);
+        x = x + 1;
+    }
+    
+    while (x <= 90);
+    
+    
     return 0;
 }
+
