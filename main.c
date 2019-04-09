@@ -10,17 +10,34 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 int main()
 {
-    int x;
-     x = 65;
-    do
-    {
-        printf("%c", x);
-        x = x + 1;
-    }
+    char I [5];
+    int m;
+
+   scanf("%s",&I);
+  // Encryption 
+  
+if (I > 66 && I < 90);
+    m = I - 1;
+    printf("%c\n", m);
+ else 
+ 
+    x = 65; 
+     m = 90; //x + 25;
+    printf("%c\n", m);
+
+
     
-    while (x <= 90);
+    
     
     
     return 0;
 }
+
+// use %s instead of %c to avoid only printing one value. Print string instead
+
+// Options to choose between types of code 
+// then shoose between encryption and decription
+// use scan f with if and else 
+
+
 
