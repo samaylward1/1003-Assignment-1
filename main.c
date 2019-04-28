@@ -1,5 +1,15 @@
 /**********************************************************************************************
-*  Summary                                                                                    *
+*  SUMMARY                                                                                    *
+*  Given phrases to Encrypt and Decrypt                                                       *
+*                                                                                             *
+*  Rotation Cipher                                                                            *
+*     ATTACK AT SUNRISE                                                                       *
+*     ZSSZBJ ZS RTMQHRD                                                                       *
+*                                                                                             *
+*  Sustitution Cipher                                                                         *
+*     PLEASE GET MILK AT THE SHOPS                                                            *
+*     HSTQLT UTZ DOSA QZ ZIT LIGHL                                                            *
+*                                                                                             *
 *  Case 1: Encryption of a Rotation Cipher                                                    *
 *  Case 2: Decryption of a Rotation Cipher                                                    *      
 *  Case 3: Encryption of a Substitution Cipher                                                *
@@ -388,6 +398,7 @@ int main()
 
 return 0;
 }
+
 
 
 
